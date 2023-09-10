@@ -1,8 +1,4 @@
-# DevOps Directive Terraform Course
-
-This is the companion repo to: [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
-
-[![thumbnail](https://user-images.githubusercontent.com/1320389/154354937-98533608-2f42-44c1-8110-87f7e3f45085.jpeg)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+# DevOps Terraform
 
 ## 01 - Evolution of Cloud + Infrastructure as Code
 
@@ -18,7 +14,7 @@ Includes basic `hello world` terraform config to provision a single AWS EC2 inst
 
 ## 03 - Basics
 
-Covers main usage pattern, setting up remote backends (where the terraform state is stored) using terraform Cloud and AWS, and provides a naive implementation of a web application architecture.
+Setting up remote backends (where the terraform state is stored) using terraform Cloud and AWS, and provides a naive implementation of a web application architecture.
 
 ## 04 - Variables and Outputs
 
@@ -42,4 +38,4 @@ Explains different types of testing (manual + automated) for Terraform modules a
 
 ## 09 - Developer Workflows + CI/CD
 
-Covers how teams can work together with Terraform and how to set up CI/CD pipelines to keep infrastructure environments up to date.
+How teams can work together with Terraform and how to set up CI/CD pipelines to keep infrastructure environments up to date.
